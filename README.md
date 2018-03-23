@@ -1,1 +1,1 @@
-# GA-Data-Science-Final-Project
+# Project for General Assembly's Data Science Remote Course 
